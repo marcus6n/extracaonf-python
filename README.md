@@ -1,3 +1,4 @@
+![Badge Completo](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
 # Projeto de Extração de Informações de Notas Fiscais
 
 Este é um projeto que visa extrair informações de arquivos XML de notas fiscais e criar uma tabela em formato Excel contendo essas informações. O projeto é útil para empresas que precisam processar um grande volume de notas fiscais e desejam automatizar o processo de extração de informações.
@@ -16,10 +17,14 @@ Para executar o projeto, siga os passos abaixo:
 
 4. Após a execução do código, uma tabela em formato Excel será criada e salva em um arquivo chamado "NotasFiscais.xlsx" na pasta "tabelas". Essa tabela conterá as informações extraídas das notas fiscais.
 
-## Licença
-
-Este projeto está disponível sob a licença MIT. A licença MIT é uma licença de código aberto amplamente utilizada e permite que empresas usem, modifiquem e distribuam o código deste projeto para necessidades internas.
-
 ## Considerações Finais
 
 Esperamos que este projeto seja útil para empresas que desejam automatizar o processo de extração de informações de notas fiscais. A utilização de tecnologias como `xmltodict` e `pandas` simplifica o processo de manipulação e processamento de arquivos XML e criação de tabelas.
+
+## Autor
+
+- Marcus Neves [@marcus6n](https://github.com/marcus6n)
+
+## Licença
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/marcus6n/extracaonf-python/blob/main/LICENSE)
